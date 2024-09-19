@@ -1,0 +1,13 @@
+# Arduino/PlatformIO related
+.ino.*
+*.elf
+*.bin
+*.hex
+/.pio
+
+# KiCad related
+*.bak
+*.tmp
+*.net
+*-cache.lib
+
