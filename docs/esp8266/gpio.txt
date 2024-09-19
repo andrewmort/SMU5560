@@ -7,3 +7,7 @@ D3 = GPIO0
 D4 = GPIO2 (doubtful - tied to vcc)
 D8 = GPIO15 (doubtful - tied to gnd)
 D0 = GPIO16 (iffy if using deepsleep)
+
+
+Notes on esp32
+https://randomnerdtutorials.com/esp32-pinout-reference-gpios/
