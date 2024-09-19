@@ -1,0 +1,9 @@
+Available GPIOs on ModeMCU v1
+D1 = GPIO5
+D2 = GPIO4
+D6 = GPIO12
+D7 = GPIO13
+D3 = GPIO0
+D4 = GPIO2 (doubtful - tied to vcc)
+D8 = GPIO15 (doubtful - tied to gnd)
+D0 = GPIO16 (iffy if using deepsleep)
