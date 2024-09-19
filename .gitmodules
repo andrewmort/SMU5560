@@ -1,0 +1,3 @@
+[submodule "docs/esp8266/nodemcu-devkit-v1.0"]
+	path = docs/esp8266/nodemcu-devkit-v1.0
+	url = git@github.com:nodemcu/nodemcu-devkit-v1.0.git
