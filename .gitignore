@@ -3,7 +3,7 @@
 *.elf
 *.bin
 *.hex
-/.pio
+.pio
 
 # KiCad related
 *.bak
